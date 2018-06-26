@@ -9,4 +9,4 @@ A collection of jupyter notebooks of Tensorflow implementations for beginners.
 
 ## TODO
 
-Add implementaions of Recurrent Neural Networks
+Add implementaions of Recurrent Neural Networks.
